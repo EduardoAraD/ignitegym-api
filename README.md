@@ -1,3 +1,7 @@
+## 💻 Projeto
+
+Api da aplicação Ignite Gym. Oferecida pela Rocketseat.
+
 
 ### Scripts
 
